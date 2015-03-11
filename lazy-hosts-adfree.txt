@@ -1,4 +1,4 @@
-#title lazy-hosts
+#title lazy-hosts Ads Free
 #version=201503111715
 #Description=Hosts file, no Ads, quick & clean.
 #Down=https://raw.github.com/randyzhong/lazy-hosts/master/lazy-hosts-adfree.txt
